@@ -1,3 +1,3 @@
 # sammy
-Sammy Application Placeholder
+Sammy Application 
 Testing commit
