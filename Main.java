@@ -3,6 +3,5 @@ public class Main {
 		System.out.println("Fixed a bug in bau"); // Added a comment in emr
 		// Added a comment in sprint
 		// Added a new comment
-		// Added another new comment
 	}
 }
